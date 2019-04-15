@@ -16,6 +16,23 @@
   <li>
   本について詳しくは<a href="https://www.marlin-arms.com/support/node-desing-patterns/">サポートページ</a>をご覧ください。
   </li>
+	<li>
+	書籍版のご購入はこちらなどからどうぞ
+		<ul>
+			<li>
+						https://www.amazon.co.jp/dp/4873118735
+			</li>
+			<li>
+			</li>
+			<li>
+			</li>
+		</ul>
+
+	<li>
+	電子版（PDFなど）のご購入は<a href="">オライリー・ジャパン</a>のサイトからどうぞ
+	</li>
+			
+
 </div>
 
 ## ファイル構成
