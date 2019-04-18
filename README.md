@@ -20,22 +20,22 @@
 	書籍版のご購入はこちらなどからどうぞ
 		<ul>
 			<li>
-			[ヨドバシカメラ](https://www.yodobashi.com/product/100000009003131243/)
+			<a href="https://www.yodobashi.com/product/100000009003131243/">ヨドバシカメラ</a>
 			</li>
 			<li>
-			[楽天])(https://books.rakuten.co.jp/rb/15874212/)
+			<a href="https://books.rakuten.co.jp/rb/15874212/">楽天</a>
 			</li>
 			<li>
-			[Amazon](https://www.amazon.co.jp/dp/4873118735)
+			<a href="https://www.amazon.co.jp/dp/4873118735">Amazon</a>
 			</li>
 			<li>
-			[オライリー・ジャパン](https://www.oreilly.co.jp/books/9784873118734/)
+			<a href="https://www.oreilly.co.jp/books/9784873118734/">オライリー・ジャパン</a>
 			</li>
 		</ul>
 
 
 	<li>
-	電子版（PDFなど）のご購入は<a href="">オライリー・ジャパン</a>のサイトからどうぞ
+	電子版（PDFなど）のご購入は<a href="https://www.oreilly.co.jp/books/9784873118734">オライリー・ジャパンのサイト</a>からどうぞ
 	</li>
 </ul>			
 
