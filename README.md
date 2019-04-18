@@ -3,7 +3,7 @@
 ![表紙](ndp2.png)
 ![表紙](https://www.marlin-arms.com/jpn/arts/books-small/ndp2.png)
 
-[オライリー・ジャパン](https://www.oreilly.co.jp/books/9784873117836/)発行の『[Node.jsデザインパターン 第2版](https://www.marlin-arms.com/support/nodejs-design-patterns/)』の例題用リポジトリです。
+[オライリー・ジャパン](https://www.oreilly.co.jp/books/9784873118734/)発行の『[Node.jsデザインパターン 第2版](https://www.marlin-arms.com/support/nodejs-design-patterns/)』の例題用リポジトリです。
 
 <div>
 <ul>
@@ -20,18 +20,24 @@
 	書籍版のご購入はこちらなどからどうぞ
 		<ul>
 			<li>
-						https://www.amazon.co.jp/dp/4873118735
+			[ヨドバシカメラ](https://www.yodobashi.com/product/100000009003131243/)
 			</li>
 			<li>
+			[楽天])(https://books.rakuten.co.jp/rb/15874212/)
 			</li>
 			<li>
+			[Amazon](https://www.amazon.co.jp/dp/4873118735)
+			</li>
+			<li>
+			[オライリー・ジャパン](https://www.oreilly.co.jp/books/9784873118734/)
 			</li>
 		</ul>
+
 
 	<li>
 	電子版（PDFなど）のご購入は<a href="">オライリー・ジャパン</a>のサイトからどうぞ
 	</li>
-			
+</ul>			
 
 </div>
 
