@@ -17,9 +17,21 @@
   </li>
 
 <li>
-	書籍版のご購入は下記のサイトなどからどうぞ &mdash;&mdash; 
-			<a href="https://www.yodobashi.com/product/100000009003131243/">ヨドバシカメラ</a> &nbsp; &nbsp; <a href="https://books.rakuten.co.jp/rb/15874212/">楽天</a> &nbsp; &nbsp; <a href="https://www.amazon.co.jp/dp/4873118735">Amazon</a> &nbsp; &nbsp; <a href="https://www.oreilly.co.jp/books/9784873118734/">オライリー・ジャパン</a>（現在準備中）
-</li>
+	書籍版のご購入は下記のサイトなどからどうぞ
+		<ul>
+			<li>
+			<a href="https://www.yodobashi.com/product/100000009003131243/">ヨドバシカメラ</a>
+			</li>
+			<li>
+			<a href="https://books.rakuten.co.jp/rb/15874212/">楽天</a>
+			</li>
+			<li>
+			<a href="https://www.amazon.co.jp/dp/4873118735">Amazon</a>
+			</li>
+			<li>
+			<a href="https://www.oreilly.co.jp/books/9784873118734/">オライリー・ジャパン</a>（現在準備中）
+			</li>
+		</ul>
 </ul>
 
 <p>
