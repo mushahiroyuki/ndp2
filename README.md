@@ -14,10 +14,11 @@
   node.jsはv6.9.5以降をご利用ください。
   </li>
   <li>
-  本について詳しくは<a href="https://www.marlin-arms.com/support/node-desing-patterns/">サポートページ</a>をご覧ください。
+  本について詳しくは<a href="https://www.marlin-arms.com/support/nodejs-design-patterns/">サポートページ</a>をご覧ください。
   </li>
-	<li>
-	書籍版のご購入はこちらなどからどうぞ
+
+<li>
+	書籍版のご購入は下記のサイトなどからどうぞ
 		<ul>
 			<li>
 			<a href="https://www.yodobashi.com/product/100000009003131243/">ヨドバシカメラ</a>
@@ -32,11 +33,10 @@
 			<a href="https://www.oreilly.co.jp/books/9784873118734/">オライリー・ジャパン</a>
 			</li>
 		</ul>
-
-
-	<li>
-	電子版（PDFなど）のご購入は<a href="https://www.oreilly.co.jp/books/9784873118734">オライリー・ジャパンのサイト</a>からどうぞ
-	</li>
+		
+		<li>
+			電子版（PDFなど）のご購入は<a href="https://www.oreilly.co.jp/books/9784873118734">オライリー・ジャパンのサイト</a>からどうぞ
+	  </li>
 </ul>			
 
 </div>
