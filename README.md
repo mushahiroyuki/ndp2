@@ -33,11 +33,11 @@
 			<a href="https://www.oreilly.co.jp/books/9784873118734/">オライリー・ジャパン</a>
 			</li>
 		</ul>
-		
-		<li>
-			電子版（PDFなど）のご購入は<a href="https://www.oreilly.co.jp/books/9784873118734">オライリー・ジャパンのサイト</a>からどうぞ
-	  </li>
-</ul>			
+</ul>
+
+<p>
+電子版（PDFなど）のご購入は<a href="https://www.oreilly.co.jp/books/9784873118734">オライリー・ジャパンのサイト</a>からどうぞ
+</p>
 
 </div>
 
