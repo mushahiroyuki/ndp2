@@ -30,13 +30,13 @@
 			<a href="https://www.amazon.co.jp/dp/4873118735">Amazon</a>
 			</li>
 			<li>
-			<a href="https://www.oreilly.co.jp/books/9784873118734/">オライリー・ジャパン</a>
+			<a href="https://www.oreilly.co.jp/books/9784873118734/">オライリー・ジャパン</a>（現在準備中）
 			</li>
 		</ul>
 </ul>
 
 <p>
-電子版（PDFなど）のご購入は<a href="https://www.oreilly.co.jp/books/9784873118734">オライリー・ジャパンのサイト</a>からどうぞ
+電子版（PDFなど）のご購入は<a href="https://www.oreilly.co.jp/books/9784873118734">オライリー・ジャパンのページ</a>からどうぞ（現在準備中）
 </p>
 
 </div>
