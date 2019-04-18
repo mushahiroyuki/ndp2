@@ -15,7 +15,7 @@
   <li>
   本について詳しくは<a href="https://www.marlin-arms.com/support/nodejs-design-patterns/">サポートページ</a>をご覧ください。
   </li>
-
+<!--
 <li>
 	書籍版のご購入は下記のサイトなどからどうぞ
 		<ul>
@@ -33,6 +33,7 @@
 			</li>
 		</ul>
 </ul>
+-->
 
 <p>
 電子版（PDFなど）のご購入は<a href="https://www.oreilly.co.jp/books/9784873118734">オライリー・ジャパンのページ</a>からどうぞ（現在準備中）
