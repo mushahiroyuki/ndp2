@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "ecstatic": "^1.4.0",
+    "ecstatic": "^4.1.2",
     "minimist": "^1.2.0",
     "ws": "^1.0.1",
     "zmq": "^2.14.0"
