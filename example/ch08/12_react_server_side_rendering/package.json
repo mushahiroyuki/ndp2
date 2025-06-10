@@ -17,10 +17,10 @@
     "webpack": "^1.12.14"
   },
   "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.13.4",
     "react": "^15.0.0-rc.1",
     "react-dom": "^15.0.0-rc.1",
-    "react-router": "^2.0.1",
-    "ejs": "^2.4.1",
-    "express": "^4.13.4"
+    "react-router": "^2.0.1"
   }
 }
